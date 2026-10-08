@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy - Break Schedule Builder</title>
+<style>
+body{font-family:Arial,sans-serif;line-height:1.7;max-width:800px;margin:40px auto;padding:20px;color:#253044}
+h1,h2{color:#172033}
+h2{margin-top:30px}
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p><strong>Application:</strong> Break Schedule Builder<br>
+<strong>Developer:</strong> OPS Flow Systems<br>
+<strong>Effective Date:</strong> October 7, 2026</p>
+<h2>1. Introduction</h2>
+<p>OPS Flow Systems provides Break Schedule Builder, an Android application designed to create work schedules, organize breaks and meal periods, and manage scheduled reminders. This policy explains how the application handles information.</p>
+<h2>2. Information Processed</h2>
+<p>The application processes information entered by users, including employee names, venue or workplace names, shift dates and times, break and meal rules, schedules, and alarm statuses. No account, email address, or password is required to use the application.</p>
+<h2>3. Local Storage</h2>
+<p>Scheduling information is stored locally on the Android device using an application database. Core scheduling and reminder features work without an internet connection. OPS Flow Systems does not operate an application server that receives these scheduling records.</p>
+<h2>4. Android Backups</h2>
+<p>The application currently allows Android system backup. Depending on device settings and Android versions, locally stored application data may be included in system backups or transferred when changing or restoring devices. These operations are managed by Android and applicable backup providers.</p>
+<h2>5. Permissions</h2>
+<p>The application uses notification permissions, exact alarms, full-screen alarm capabilities, device restart detection, and foreground media playback services to deliver reminders, play alarms, and restore eligible scheduled alarms after a restart. Android text-to-speech services may also be used where available.</p>
+<h2>6. Third-Party Services and Sharing</h2>
+<p>The reviewed application configuration does not include Firebase Analytics or a dedicated advertising SDK and does not declare Android's INTERNET permission. OPS Flow Systems does not intentionally transmit employee names or scheduling records to its own servers or sell these records to advertisers. Android system services and backup providers may process information under their own privacy practices.</p>
+<h2>7. Data Retention and Deletion</h2>
+<p>Scheduling records remain stored on the device until removed using available application controls, Android app-data settings, or by uninstalling the application. Previously created system backups may remain subject to the applicable backup provider's retention policies.</p>
+<h2>8. Security</h2>
+<p>The application relies on Android's application storage protections. Users should secure their devices with screen locks and operating system updates. No storage system guarantees absolute security.</p>
+<h2>9. Children's Privacy</h2>
+<p>Break Schedule Builder is intended as a workplace productivity application and is not specifically directed toward children.</p>
+<h2>10. Changes to This Policy</h2>
+<p>OPS Flow Systems may update this Privacy Policy to reflect changes to the application or its privacy practices. Updates will appear on this page.</p>
+<h2>11. Contact</h2>
+<p><strong>OPS Flow Systems</strong><br>
+Break Schedule Builder<br>
+Email: <a href="mailto:baudyespinoza5@gmail.com">baudyespinoza5@gmail.com</a></p>
+</body>
+</html>
